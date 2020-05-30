@@ -4,7 +4,7 @@
 	- Intal is an non negative number of arbitary length where the integers are represented as strings and we need to perform the arithmetic operations and other functionalities on these string represented numbers.
 	Since the integers opeations in c is limited and  we cannot store large and the operations will be difficult but with strings we can do operations on each character and get the same result by applying appropriate algorithm
 	
-	### Application 
+## Application 
 	It can be used to do large calculation on large numbers, less burden on the hardware compared to normal operations on integers  
 
 ### Intal include the follwing functionalities:
